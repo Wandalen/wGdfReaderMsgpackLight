@@ -16,7 +16,7 @@
   {
     "url" : "https://github.com/Wandalen/wGdfReaderMsgpackLight/issues"
   },
-  "dependencies" : { "wTools" : "" },
-  "devDependencies" : { "wTesting" : "", "eslint" : "7.1.0", "wgdfreadermsgpacklight" : "file:." },
+  "dependencies" : { "wTools" : "alpha" },
+  "devDependencies" : { "eslint" : "7.1.0", "wgdfreadermsgpacklight" : "file:.", "wTesting" : "alpha" },
   "keywords" : [ "wTools" ]
 }
