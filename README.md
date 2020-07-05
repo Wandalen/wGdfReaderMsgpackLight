@@ -1,5 +1,5 @@
 
-# module::GdfReaderMsgpackLight [![experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/emersion/stability-badges#experimental) [![Status](https://github.com/Wandalen/wGdfReaderMsgpackLight/workflows/Test/badge.svg)](https://github.com/Wandalen/wGdfReaderMsgpackLight/actions?query=workflow%3ATest)
+# module::GdfReaderMsgpackLight [![Status](https://circleci.com/gh/Wandalen/wGdfReaderMsgpackLight.svg?style=shield)](https://img.shields.io/circleci/build/github/Wandalen/wGdfReaderMsgpackLight?label=Test&logo=Test) [![Status](https://github.com/Wandalen/wGdfReaderMsgpackLight/workflows/Test/badge.svg)](https://github.com/Wandalen/wGdfReaderMsgpackLight/actions?query=workflow%3ATest) [![experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/emersion/stability-badges#experimental)
 
 ___
 
