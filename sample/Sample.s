@@ -3,5 +3,5 @@ let _ = require( 'wgdfreadermsgpacklight' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
