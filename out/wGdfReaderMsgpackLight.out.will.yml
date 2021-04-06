@@ -6,8 +6,8 @@ consistency:
     hash: a78fe0ad31db30983a7cf4ac7693403a
     size: 1745
   ../.im.will.yml: &ref_1
-    hash: d273275d572a2b92e9abac339ecd08e4
-    size: 4691
+    hash: b590d8291f5340ae7390ee8b5e062ae0
+    size: 4695
 module:
   wGdfReaderMsgpackLight.out:
     about:
@@ -138,7 +138,7 @@ module:
         path: '{path::out.*=}/source/Index.s'
       npm.proto.entry:
         path:
-          - ../proto/wtools/Tools.s
+          - ../proto/node_modules/Tools
           - ../proto/node_modules/wgdfreadermsgpacklight
       exported.dir.proto.export:
         criterion:
@@ -155,9 +155,9 @@ module:
           - ../proto
           - ../proto/Integration.test.ss
           - ../proto/node_modules
+          - ../proto/node_modules/Tools
           - ../proto/node_modules/wgdfreadermsgpacklight
           - ../proto/wtools
-          - ../proto/wtools/Tools.s
           - ../proto/wtools/abase
           - ../proto/wtools/amid
           - ../proto/wtools/atop
@@ -890,7 +890,7 @@ module:
         path: '{path::out.*=}/source/Index.s'
       npm.proto.entry:
         path:
-          - proto/wtools/Tools.s
+          - proto/node_modules/Tools
           - proto/node_modules/wgdfreadermsgpacklight
     submodule:
       wTools:
@@ -1438,5 +1438,5 @@ module:
         hash: a78fe0ad31db30983a7cf4ac7693403a
         size: 1745
       ../.im.will.yml:
-        hash: d273275d572a2b92e9abac339ecd08e4
-        size: 4691
+        hash: b590d8291f5340ae7390ee8b5e062ae0
+        size: 4695
